@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beatykiplagat
 - 👀 I’m interested in all things data
-- 🌱 I’m currently learning data science using python & SQL
-- 💞️ I’m looking to collaborate on all things data
+- 🌱 I’m currently learning data science using python, R & SQL
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me @beatykiplagat@gmail.com
 
 <!---
