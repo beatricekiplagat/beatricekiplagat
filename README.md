@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beatykiplagat
+- 👋 Hi, I’m @beatricekiplagat
 - 👀 I’m interested in all things data
 - 🌱 I’m currently learning data science using python, R & SQL
 - 💞️ I’m looking to collaborate on data science projects
