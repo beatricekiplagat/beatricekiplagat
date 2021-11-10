@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @beatricekiplagat
-- 👀 I’m interested in all things data
-- 🌱 I’m currently learning data science using python, R & SQL
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me @beatykiplagat@gmail.com
+- 👀 I am a Business Intelligence Analyst with over 5 years experience in Data Analysis & Visualization. 
+- 💞️ I enjoy answering questions and telling stories using data & I’m looking to collaborate on data science projects
+- 📫 You can reach me on @beatykiplagat@gmail.com
 
 <!---
 beatricekiplagat/beatricekiplagat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
