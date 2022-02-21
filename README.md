@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beatricekiplagat
+- 👋 Hi, I’m @beatricekiplagat!
 - 👀 I am a data analyst with vast experience in Data Analysis & Visualization. 
 - 💞️ I enjoy answering questions and telling stories using data & I’m looking to collaborate on data science projects
 - 📫 You can reach me on @beatykiplagat@gmail.com
